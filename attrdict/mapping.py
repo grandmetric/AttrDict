@@ -1,8 +1,7 @@
 """
 An implementation of MutableAttr.
 """
-from collections import Mapping
-
+from collections.abc import Mapping
 import six
 
 from attrdict.mixins import MutableAttr

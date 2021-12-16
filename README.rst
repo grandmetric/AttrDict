@@ -193,3 +193,7 @@ to ``False``.
 License
 =======
 AttrDict is released under a MIT license.
+
+Compatibility
+=============
+Was updated for support Python 3.10
